@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ProgramacaoDinamica.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ProgramacaoDinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ProgramacaoDinamica.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ProgramacaoDinamica.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ProgramacaoDinamica.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\bin\Debug\net5.0\ProgramacaoDinamica.exe
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\bin\Debug\net5.0\ProgramacaoDinamica.deps.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\bin\Debug\net5.0\ProgramacaoDinamica.runtimeconfig.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\bin\Debug\net5.0\ProgramacaoDinamica.runtimeconfig.dev.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\bin\Debug\net5.0\ProgramacaoDinamica.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\bin\Debug\net5.0\ref\ProgramacaoDinamica.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\bin\Debug\net5.0\ProgramacaoDinamica.pdb
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ProgramacaoDinamica.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ref\ProgramacaoDinamica.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ProgramacaoDinamica.pdb
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProgramacaoDinamica\obj\Debug\net5.0\ProgramacaoDinamica.genruntimeconfig.cache

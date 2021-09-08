@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\bin\Debug\net5.0\ProblemaDoCaminhao.exe
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\bin\Debug\net5.0\ProblemaDoCaminhao.deps.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\bin\Debug\net5.0\ProblemaDoCaminhao.runtimeconfig.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\bin\Debug\net5.0\ProblemaDoCaminhao.runtimeconfig.dev.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\bin\Debug\net5.0\ProblemaDoCaminhao.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\bin\Debug\net5.0\ref\ProblemaDoCaminhao.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\bin\Debug\net5.0\ProblemaDoCaminhao.pdb
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ProblemaDoCaminhao.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ProblemaDoCaminhao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ProblemaDoCaminhao.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ProblemaDoCaminhao.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ProblemaDoCaminhao.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ProblemaDoCaminhao.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ref\ProblemaDoCaminhao.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ProblemaDoCaminhao.pdb
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDoCaminhao\obj\Debug\net5.0\ProblemaDoCaminhao.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\bin\Debug\net5.0\ProblemaDaMoeda.exe
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\bin\Debug\net5.0\ProblemaDaMoeda.deps.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\bin\Debug\net5.0\ProblemaDaMoeda.runtimeconfig.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\bin\Debug\net5.0\ProblemaDaMoeda.runtimeconfig.dev.json
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\bin\Debug\net5.0\ProblemaDaMoeda.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\bin\Debug\net5.0\ref\ProblemaDaMoeda.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\bin\Debug\net5.0\ProblemaDaMoeda.pdb
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ProblemaDaMoeda.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ProblemaDaMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ProblemaDaMoeda.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ProblemaDaMoeda.AssemblyInfo.cs
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ProblemaDaMoeda.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ProblemaDaMoeda.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ref\ProblemaDaMoeda.dll
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ProblemaDaMoeda.pdb
+C:\Users\victo\source\repos\ProgramacaoDinamica\ProblemaDaMoeda\obj\Debug\net5.0\ProblemaDaMoeda.genruntimeconfig.cache
